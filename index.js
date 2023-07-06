@@ -80,7 +80,7 @@ function addItem(menuId) {
   }
 }
 
-// function to render selected items in the innerHTML DOM
+// function to render selected items in the DOM
 function renderSelectedItem() {
   const myOrderDiv = document.getElementById('my-order')
   myOrderDiv.innerHTML = ''
